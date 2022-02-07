@@ -1,1 +1,1 @@
- JenkinsDemo is repo created to do hands-on on jenkins portal.
+ JenkinsDemo is repo created to do hands-on activities on jenkins portal.
